@@ -1,0 +1,17 @@
+html {
+  font-size: 200%;
+}
+
+.add_books {
+  font-size: 2rem;
+}
+
+.books_container {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+.edit,
+.delete {
+  font-size: 0.8rem;
+}
